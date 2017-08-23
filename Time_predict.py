@@ -193,24 +193,4 @@ with open(r'E:\智慧交通预测挑战\Model\Results.txt','w') as f:
         count = count+1
         if i < (len(resu)-1):
             f.write('\n')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+           
